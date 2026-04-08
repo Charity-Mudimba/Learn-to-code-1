@@ -1,2 +1,4 @@
 # Learn-to-code-1
-Learn to code 1 activities 
+
+This is a project to trackthe Swift playgrounds learn to code 1 challenges
+
